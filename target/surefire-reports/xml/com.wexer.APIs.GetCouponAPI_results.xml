@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.298">
+  <properties />
+  
+  
+            <testcase name="PrintResponse" time="2.440" classname="com.wexer.APIs.GetCouponAPI" />
+                <testcase name="GettingCode" time="5.858" classname="com.wexer.APIs.GetCouponAPI" />
+      
+</testsuite>

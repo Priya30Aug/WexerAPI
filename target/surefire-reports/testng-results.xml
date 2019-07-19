@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-19T15:01:56Z" name="Suite" finished-at="2019-07-19T15:02:05Z" duration-ms="9342">
+    <groups>
+    </groups>
+    <test started-at="2019-07-19T15:01:56Z" name="Test" finished-at="2019-07-19T15:02:05Z" duration-ms="9342">
+      <class name="com.wexer.APIs.GetCouponAPI">
+        <test-method is-config="true" signature="Intialise()[pri:0, instance:com.wexer.APIs.GetCouponAPI@66498326]" started-at="2019-07-19T15:01:56Z" name="Intialise" finished-at="2019-07-19T15:01:57Z" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Intialise -->
+        <test-method signature="GettingCode()[pri:0, instance:com.wexer.APIs.GetCouponAPI@66498326]" started-at="2019-07-19T15:01:57Z" name="GettingCode" finished-at="2019-07-19T15:02:03Z" duration-ms="5858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GettingCode -->
+        <test-method signature="PrintResponse()[pri:0, instance:com.wexer.APIs.GetCouponAPI@66498326]" started-at="2019-07-19T15:02:03Z" name="PrintResponse" finished-at="2019-07-19T15:02:05Z" duration-ms="2440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintResponse -->
+      </class> <!-- com.wexer.APIs.GetCouponAPI -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
